@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=JetBrains+Mono:wght@800&display=swap");
+.App {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #ebf6f7;
+}
